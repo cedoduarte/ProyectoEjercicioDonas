@@ -1,0 +1,8 @@
+c:\users\cedo\documents\visual studio 2012\Projects\EjercicioDonas\EjercicioDonas\bin\Debug\EjercicioDonas.exe.config
+c:\users\cedo\documents\visual studio 2012\Projects\EjercicioDonas\EjercicioDonas\bin\Debug\EjercicioDonas.exe
+c:\users\cedo\documents\visual studio 2012\Projects\EjercicioDonas\EjercicioDonas\bin\Debug\EjercicioDonas.pdb
+c:\users\cedo\documents\visual studio 2012\Projects\EjercicioDonas\EjercicioDonas\obj\Debug\EjercicioDonas.Form1.resources
+c:\users\cedo\documents\visual studio 2012\Projects\EjercicioDonas\EjercicioDonas\obj\Debug\EjercicioDonas.Properties.Resources.resources
+c:\users\cedo\documents\visual studio 2012\Projects\EjercicioDonas\EjercicioDonas\obj\Debug\EjercicioDonas.csproj.GenerateResource.Cache
+c:\users\cedo\documents\visual studio 2012\Projects\EjercicioDonas\EjercicioDonas\obj\Debug\EjercicioDonas.exe
+c:\users\cedo\documents\visual studio 2012\Projects\EjercicioDonas\EjercicioDonas\obj\Debug\EjercicioDonas.pdb
